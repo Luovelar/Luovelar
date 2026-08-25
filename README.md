@@ -49,11 +49,9 @@ I currently support Microsoft's operations through **TCS**, working on the funct
 
 | Project | Description |
 |---|---|
-| 🔗 [**Power-Bi-Project**](https://github.com/Luovelar/Power-Bi-Project) | Power BI dashboard and data model built for business reporting and analysis. |
-| 🔗 [**Tableau-Project**](https://github.com/Luovelar/Tableau-Project) | Data visualization project built in Tableau. |
-| 🔗 [**Data_Brazil**](https://github.com/Luovelar/Data_Brazil) | Data analysis project exploring Brazilian datasets. |
-| 🔗 [**Datasets_varios**](https://github.com/Luovelar/Datasets_varios) | Collection of datasets used for practice and analysis. |
-| 🔗 [**Porfolio**](https://github.com/Luovelar/Porfolio) | My professional portfolio. |
+| 🔗 [**Power-Bi-Project**](https://github.com/Luovelar/Power-Bi-Project) | Power BI final project analyzing 2022 online complaint/claims data — dashboard design, data modeling, and reporting. |
+| 🔗 [**Tableau-Project**](https://github.com/Luovelar/Tableau-Project) | Advanced Tableau visualizations built on an anime recommendation dataset, exploring chart design and data storytelling techniques. |
+| 🔗 [**Data_Brazil**](https://github.com/Luovelar/Data_Brazil) | Data analysis of Brazilian road accidents (2020–2023): trends, patterns, and key insights from the dataset. |
 
 ---
 
