@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/lourdesovelar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://public.tableau.com/app/profile/lourdesovelar/vizzes"><img src="https://img.shields.io/badge/Tableau_Public-E97627?style=flat&logo=tableau&logoColor=white" /></a>
-  <a href="https://lourdesovelar.my.canva.site/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=canva&logoColor=white" /></a>
   <a href="mailto:lourdes.l.ovelar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
