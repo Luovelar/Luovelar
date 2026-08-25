@@ -48,18 +48,12 @@ I currently support Microsoft's operations through **TCS**, working on the funct
 
 | Project | Description |
 |---|---|
-| 🔗 [**Power-Bi-Project**](https://github.com/Luovelar/Power-Bi-Project) | Power BI final project analyzing 2022 online complaint/claims data — dashboard design, data modeling, and reporting. |
+| 🔗 [**Power-Bi-Project**](https://github.com/Luovelar/Power-Bi-Project) | Power BI dashboards: retail sales & regional analysis, and online complaints reporting. |
+| 🔗 [**Looker-Studio-Projects**](https://github.com/Luovelar/Looker-Studio-Projects) | Interactive Looker Studio dashboards for sales analysis and data visualization. |
 | 🔗 [**Tableau-Project**](https://github.com/Luovelar/Tableau-Project) | Advanced Tableau visualizations built on an anime recommendation dataset, exploring chart design and data storytelling techniques. |
 | 🔗 [**Data_Brazil**](https://github.com/Luovelar/Data_Brazil) | Data analysis of Brazilian road accidents (2020–2023): trends, patterns, and key insights from the dataset. |
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Luovelar&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luovelar&layout=compact&hide_border=true" />
-</p>
 
 <p align="center">
   <i>Thanks for stopping by! 🚀</i>
